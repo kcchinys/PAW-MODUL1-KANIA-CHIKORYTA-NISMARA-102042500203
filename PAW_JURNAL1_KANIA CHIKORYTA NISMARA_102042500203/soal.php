@@ -5,9 +5,9 @@ session_start();
 //  TUGAS JURNAL PRAKTIKUM - PEMROGRAMAN WEB
 //  Sistem Pendaftaran Calon Asisten Praktikum Laboratorium
 // ============================================================
-//  Nama  : ____________________
-//  NIM   : ____________________
-//  Kelas : ____________________
+//  Nama  : Kania Chikoryta Nismara
+//  NIM   : 102042500203
+//  Kelas : JS1SI-25-REG-03
 // ============================================================
 
 // Daftar mata kuliah praktikum
